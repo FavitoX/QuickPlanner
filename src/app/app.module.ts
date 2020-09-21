@@ -14,6 +14,7 @@ import { NavHeaderComponent } from './components/nav-header/nav-header.component
 import { PlanningGridComponent } from './components/planning-grid/planning-grid.component';
 import { AgGridModule } from 'ag-grid-angular';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
+import { MenuComponent } from './components/menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { PageNotFoundComponent } from './components/page-not-found/page-not-foun
     LoginComponent,
     NavHeaderComponent,
     PlanningGridComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    MenuComponent,
   ],
   imports: [
     BrowserModule,

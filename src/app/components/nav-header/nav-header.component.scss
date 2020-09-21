@@ -17,15 +17,3 @@
 .toolbar__account-icons {
     margin-left: auto;
 }
-
-.toolbar__account-user-menu {
-    position: absolute;
-    display: none;
-    width: 150px;
-    z-index: 999999;
-    // background-color: green;
-}
-
-.toolbar__account-button:hover ~ .toolbar__account-user-menu  {
-    display: block;
-}

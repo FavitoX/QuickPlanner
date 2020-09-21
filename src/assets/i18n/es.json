@@ -1,5 +1,34 @@
 {
     "application": {
-        "name" : "Quick Planning"
+        "name" : "Quick Planning",
+        "solution": "Soluciones"
+    },
+    "menu": {
+        "perfil": "Perfil",
+        "salir": "Cerrar Sesion"
+    },
+    "project": {
+        "name": "Proyecto",
+        "item": "Item",
+        "version": "Version",
+        "status": "Estado",
+        "product": "Producto",
+        "duration": "Duración",
+        "plannedStart": "Inicio Planificado",
+        "plannedEnd": "Fin Planificado",
+        "calculatedEnd": "Fin Calculado",
+        "realStart": "Inicio Real",
+        "realEnd": "Fin Real",
+        "delay": "Atraso",
+        "totalDeviation": "Desvio Total",
+        "deviation1": "Desvio 1",
+        "deviation2": "Desvio 2",
+        "deviation3": "Desvio 3",
+        "deviation4": "Desvio 4",
+        "deviation5": "Desvio 5",
+        "deviation6": "Desvio 6",
+        "deviation7": "Desvio 7",
+        "deviation8": "Desvio 8",
+        "deviation9": "Desvio 9"
     }
 }
