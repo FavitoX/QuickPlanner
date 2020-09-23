@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9pFAGPRRBP2tzO9HRQi9L9IBeiZK/w5qTYghH6Amc3Jf/5PaJp6FEgO9it9/0EgBSPEHLx3pBNlv5ep9M3HDbw==",
+  "success": true,
+  "projectFilePath": "C:\\NBFavito\\Lab's\\QuickPlanning\\QuickPlanner.Api\\QuickPlanner.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fleyva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
